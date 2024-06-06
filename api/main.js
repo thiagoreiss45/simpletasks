@@ -6,7 +6,7 @@ import './tasks/tasks.publications';
 import './tasks/tasks.methods';
 
 /**
- * This is the server-side entry point
+ * This is the server-side entry  point
  */
 Meteor.startup(() => {
   Migrations.migrateTo('latest').catch((e) =>

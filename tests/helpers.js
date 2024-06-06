@@ -1,5 +1,6 @@
 import { Meteor } from 'meteor/meteor';
 
+
 export function mockLoggedUserId(userId) {
   Meteor.userId = () => userId;
 }

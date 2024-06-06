@@ -1,0 +1,6 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://admin:BHPJGzbGYBguZYK7@thiagosimpletasks1_db-01.mongodb.galaxy-cloud.io:30007,thiagosimpletasks1_db-02.mongodb.galaxy-cloud.io:30007,thiagosimpletasks1_db-03.mongodb.galaxy-cloud.io:30007/admin?replicaSet=thiagosimpletasks1_db",
+    }
+}
